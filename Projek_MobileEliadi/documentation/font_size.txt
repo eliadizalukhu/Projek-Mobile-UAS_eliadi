@@ -1,0 +1,19 @@
+font-family: Sora;
+
+font-weight: 600;
+
+font-size: 34px;
+font-size: 20px;
+font-size: 18px;
+font-size: 16px;
+
+
+font-weight: 400;
+
+font-size: 14px;
+font-size: 12px;
+
+black color
+white color	
+grey color #9B9B9B
+brown color #C67C4E
